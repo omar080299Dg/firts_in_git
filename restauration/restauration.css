@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px;
+    padding: 0px;;
+}
+body
+{
+    background-image: url(img/raspberries-1426859_1920.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+h1
+{
+    font-size: 50px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom:160px;
+}
+.form-control
+{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    padding: 30px;
+    font-size: 24px;
+    color: white;
+    border-bottom: 2px solid white;
+    margin-top: 11px;
+}
+.btn-primary
+{
+    margin-left: 160px;
+    margin-top: 20px;
+    font-size: 44px;
+    padding: 10px;
+    
+    border-radius: 50px;
+    transition: 1s;
+     
+}
